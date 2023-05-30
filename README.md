@@ -1,6 +1,6 @@
 ## Daily News
 
-- This repository contains the source code and materials for the "Improve your HTML and CSS skills by creating a blog" frontend development course, from freeCodeCamp.
+- This repository contains the source code and materials for the "Frontend Development Course", from freeCodeCamp, by Julio Codes.
 
 - The course is structured into several sections, each focusing on a specific aspect of frontend development. Start with the basics, including setting up your development environment, and gradually progress to more advanced topics.
 
